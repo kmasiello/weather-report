@@ -359,6 +359,11 @@
       ],
       "Hash": "493df4ae51e2e984952ea4d5c75786a3"
     },
+    "rsconnect": {
+      "Package": "rsconnect",
+      "Version": "1.2.0",
+      "Source": "Repository"
+    },
     "sass": {
       "Package": "sass",
       "Version": "0.4.7",
