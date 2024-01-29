@@ -1,0 +1,17 @@
+---
+title: "Today's Weather Report"
+---
+
+## Check the weather using `wttr.in`
+
+
+```{r}
+library(httr2)
+library(xml2)
+```
+
+```{r}
+request("wttr.in/Seattle") |> 
+  req_perform() |> resp_body_string()
+```
+
