@@ -1,0 +1,4 @@
+- source: weather-report.qmd
+  connect:
+    - id: e86445bb-3544-4c71-9ccf-6bb8e2646865
+      url: 'https://colorado.posit.co/rsc/content/e86445bb-3544-4c71-9ccf-6bb8e2646865/'
